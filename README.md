@@ -1,4 +1,5 @@
 # 💳 Fraud Detection in Credit Card Transactions(CCFD)
+## View Deploy: [![Streamlit App](https://img.shields.io/badge/Streamlit-Live-brightgreen?logo=streamlit)](https://detectfraudulentcreditcardtransactions-ccfd.streamlit.app/)
 
 ## 📌 Description
 This project aims to **detect fraudulent credit card transactions** using a combination of **unsupervised anomaly detection** and **supervised machine learning**.  
