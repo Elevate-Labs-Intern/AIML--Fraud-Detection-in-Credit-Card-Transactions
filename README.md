@@ -64,3 +64,15 @@ cd AIML--Fraud-Detection-in-Credit-Card-Transactions
 streamlit run fraud_detection.py
 ```
 Then open the web-app at `localhost:8501`
+
+## 🖥️ Streamlit UI
+<img width="748" height="645" alt="Image" src="https://github.com/user-attachments/assets/d022b0bf-fbf4-4075-8010-99fc2a6f8a10" />
+
+## 🌲 Directory Structure
+```
+AIML--Fraud-Detection-in-Credit-Card-Transactions/
+├── CCFD Final Report.pdf
+├── README.md
+├── analysis_model.ipynb
+└── fraud_detection.py
+```
